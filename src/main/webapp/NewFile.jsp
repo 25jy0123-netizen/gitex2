@@ -8,5 +8,6 @@
 </head>
 <body>
  JSP
+ こんにちは　JSP
 </body>
 </html>
